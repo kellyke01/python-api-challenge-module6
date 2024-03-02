@@ -47,5 +47,5 @@ Vacation Py Python Challenge-
           and a cloudiness of zero.
 
 I took the ideal city dataframe and created a data frame for hotels in that area.
-For the final step I took a geoapify key and and found the first hotel located within 10,000 meters of my coordinates.
+For the final step I took a geoapify key and found the first hotel located within 10,000 meters of my coordinates.
 
